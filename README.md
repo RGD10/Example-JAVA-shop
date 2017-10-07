@@ -1,0 +1,1 @@
+# JAVA shop example
